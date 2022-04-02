@@ -1,7 +1,4 @@
 #####
 [Rule]
-DOMAIN-SUFFIX,wsj.com,🚀 节点选择
-DOMAIN-SUFFIX,nyt.com,🚀 节点选择
-DOMAIN-SUFFIX,nytimes.com,🚀 节点选择
-DOMAIN-SUFFIX,nytimes.net,🚀 节点选择
-DOMAIN-SUFFIX,asana.com,🎯 全球直连
+RULE-SET, https://raw.githubusercontent.com/anray156/4friends/main/surge/proxySites.list,🚀 节点选择
+RULE-SET, https://raw.githubusercontent.com/anray156/4friends/main/surge/directSites.list,🎯 全球直连
