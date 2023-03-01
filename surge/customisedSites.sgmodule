@@ -1,4 +1,5 @@
 #####
 [Rule]
+PROCESS-NAME,/Applications/Microsoft Edge Dev.app/Contents/MacOS/Microsoft Edge Dev,🚀 节点选择
 RULE-SET, https://raw.githubusercontent.com/anray156/4friends/main/surge/proxySites.list,🚀 节点选择
 RULE-SET, https://raw.githubusercontent.com/anray156/4friends/main/surge/directSites.list,🎯 全球直连
