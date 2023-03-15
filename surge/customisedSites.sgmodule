@@ -1,6 +1,6 @@
 #####
 [Rule]
-PROCESS-NAME,/Applications/Microsoft Edge Dev.app/Contents/Frameworks/Microsoft Edge Framework.framework/Versions/111.0.1660.14/Helpers/Microsoft Edge Helper.app/Contents/MacOS/Microsoft Edge Helper,全球加速
-PROCESS-NAME,/Applications/Microsoft Edge Dev.app/Contents/MacOS/Microsoft Edge Dev,全球加速
+PROCESS-NAME,Microsoft Edge Helper,全球加速
+PROCESS-NAME,Microsoft Edge Dev,全球加速
 RULE-SET, https://raw.githubusercontent.com/anray156/4friends/main/surge/proxySites.list,全球加速
 RULE-SET, https://raw.githubusercontent.com/anray156/4friends/main/surge/directSites.list,国内直连
