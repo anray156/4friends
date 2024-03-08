@@ -1,6 +1,6 @@
 ######
 [Rule]
-PROCESS-NAME,Microsoft Edge Helper,全球加速
-PROCESS-NAME,Microsoft Edge Dev,全球加速
-RULE-SET,https://raw.githubusercontent.com/anray156/4friends/main/surge/proxySites.list,全球加速
-RULE-SET,https://raw.githubusercontent.com/anray156/4friends/main/surge/directSites.list,国内直连
+PROCESS-NAME,Microsoft Edge Helper,🧲 OpenAI
+PROCESS-NAME,Microsoft Edge Dev,🧲 OpenAI
+RULE-SET,https://raw.githubusercontent.com/anray156/4friends/main/surge/proxySites.list,🧲 OpenAI
+RULE-SET,https://raw.githubusercontent.com/anray156/4friends/main/surge/directSites.list,DIRECT
