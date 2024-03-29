@@ -1,3 +1,10 @@
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
+
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,nytimes.net
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,gstatic.com
