@@ -1,6 +1,9 @@
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,sentry.io
 
 #DOMAIN-SUFFIX,wsj.com
 #DOMAIN-SUFFIX,nyt.com
