@@ -3,5 +3,5 @@
 ##PROCESS-NAME,Microsoft Edge Helper,🧲 OpenAI
 ##PROCESS-NAME,Microsoft Edge Dev,🧲 OpenAI
 PROCESS-NAME,ChatGPT,🧲 OpenAI
-RULE-SET,https://raw.githubusercontent.com/anray156/4friends/main/surge/proxySites.list,🧲 OpenAI
+#RULE-SET,https://raw.githubusercontent.com/anray156/4friends/main/surge/proxySites.list,🧲 OpenAI
 RULE-SET,https://raw.githubusercontent.com/anray156/4friends/main/surge/directSites.list,DIRECT
